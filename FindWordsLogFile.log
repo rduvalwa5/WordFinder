@@ -1,0 +1,24 @@
+2015-02-18 15:11:02,605 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,607 INFO  [FindWords] dic word is The 
+2015-02-18 15:11:02,607 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,607 INFO  [FindWords] dic word is quick 
+2015-02-18 15:11:02,607 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,607 INFO  [FindWords] dic word is brown 
+2015-02-18 15:11:02,607 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,607 INFO  [FindWords] dic word is fox 
+2015-02-18 15:11:02,608 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,608 INFO  [FindWords] dic word is jumps 
+2015-02-18 15:11:02,608 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
+2015-02-18 15:11:02,611 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,611 INFO  [FindWords] dic word is The 
+2015-02-18 15:11:02,611 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,611 INFO  [FindWords] dic word is quick 
+2015-02-18 15:11:02,611 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,611 INFO  [FindWords] dic word is brown 
+2015-02-18 15:11:02,611 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,611 INFO  [FindWords] dic word is fox 
+2015-02-18 15:11:02,611 INFO  [FindWords] Test is FindWords 
+2015-02-18 15:11:02,611 INFO  [FindWords] dic word is jumps 
+2015-02-18 15:11:02,611 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
+2015-02-18 15:11:02,612 INFO  [FindWords] Words [] 
+2015-02-18 15:11:02,613 INFO  [FindWords] Words [] 
