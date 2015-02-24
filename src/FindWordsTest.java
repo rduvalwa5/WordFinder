@@ -19,6 +19,7 @@ public class FindWordsTest {
 							// {" ",".","?","!","@","#","$","%","^","&","*","(",")","?","<",">","~"};
 		FindWords newFind = new FindWords();
 		String input = "Thequickbrownfoxjumps?";
+		System.out.println("Begin Test Class");
 	}
 
 	@After
