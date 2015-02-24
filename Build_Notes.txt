@@ -1,0 +1,27 @@
+C1246895-Air:WordFinder rduvalwa2$ ant
+Buildfile: /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/build.xml
+Trying to override old definition of task javac
+
+init:
+   [delete] Deleting directory /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/bin
+    [mkdir] Created dir: /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/bin
+
+compile:
+    [javac] Compiling 2 source files to /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/bin
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+exec:
+   [delete] Deleting directory /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/report
+    [mkdir] Created dir: /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/report
+    [mkdir] Created dir: /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/report/xml
+    [junit] Running wordFinder.FindWordsTest
+    [junit] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.074 sec
+[junitreport] Processing /Users/rduvalwa2/DevTools/eclipse-luna/workspace/Java/Learning/WordFinder/report/TESTS-TestSuites.xml to /var/folders/yv/dbpkqmlj30b5h2f7xxvn1fw40000gq/T/null1821411251
+[junitreport] Loading stylesheet jar:file:/Users/rduvalwa2/Ant/lib/ant-junit.jar!/org/apache/tools/ant/taskdefs/optional/junit/xsl/junit-frames.xsl
+[junitreport] Transform time: 368ms
+[junitreport] Deleting: /var/folders/yv/dbpkqmlj30b5h2f7xxvn1fw40000gq/T/null1821411251
+
+BUILD SUCCESSFUL
+Total time: 1 second
+C1246895-Air:WordFinder rduvalwa2$ 
