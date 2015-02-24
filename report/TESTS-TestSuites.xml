@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="C1246895-Air.home" id="0" name="FindWordsTest" package="wordFinder" skipped="0" tests="6" time="0.074" timestamp="2015-02-24T05:30:14">
+  <testsuite errors="0" failures="0" hostname="C1246895-Air.home" id="0" name="FindWordsTest" package="wordFinder" skipped="0" tests="6" time="0.09" timestamp="2015-02-24T05:55:50">
       <properties>
           <property name="java.vendor" value="Oracle Corporation" />
 
@@ -148,29 +148,28 @@
 
       </properties>
 
-      <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithNoWordsInDictionary" time="0.037" />
-
-      <testcase classname="wordFinder.FindWordsTest" name="testLoadDictionry" time="0.001" />
-
-      <testcase classname="wordFinder.FindWordsTest" name="testLoadExclusions" time="0.0" />
+      <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithNoExclusions" time="0.052" />
 
       <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithExclusions" time="0.001" />
 
       <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithAllExclusions" time="0.001" />
 
-      <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithNoExclusions" time="0.001" />
+      <testcase classname="wordFinder.FindWordsTest" name="testFindWordsWithNoWordsInDictionary" time="0.0" />
+
+      <testcase classname="wordFinder.FindWordsTest" name="testLoadDictionry" time="0.0" />
+
+      <testcase classname="wordFinder.FindWordsTest" name="testLoadExclusions" time="0.0" />
 
       <system-out><![CDATA[Begin Test Class
-testFindWordsWithNoWordsInDictionary()
-Words []
-[]
-[]
-Begin Test Class
-testLoadDictionry()
-[Hi, O, Silver, the, Lone, Ranger, !]
-[Hi, O, Silver, the, Lone, Ranger, !]
-Begin Test Class
-testLoadExclusions()
+Test testFindWordsWithNoExclusions()
+dic word is The
+dic word is quick
+dic word is brown
+dic word is fox
+dic word is jumps
+Words [The, quick, brown, fox, jumps]
+[The, quick, brown, fox, jumps]
+[The, quick, brown, fox, jumps]
 Begin Test Class
 Test testFindWordsWithExclusions()
 dic word is The
@@ -187,15 +186,16 @@ Words []
 []
 []
 Begin Test Class
-Test testFindWordsWithNoExclusions()
-dic word is The
-dic word is quick
-dic word is brown
-dic word is fox
-dic word is jumps
-Words [The, quick, brown, fox, jumps]
-[The, quick, brown, fox, jumps]
-[The, quick, brown, fox, jumps]
+testFindWordsWithNoWordsInDictionary()
+Words []
+[]
+[]
+Begin Test Class
+testLoadDictionry()
+[Hi, O, Silver, the, Lone, Ranger, !]
+[Hi, O, Silver, the, Lone, Ranger, !]
+Begin Test Class
+testLoadExclusions()
 ]]></system-out>
 
       <system-err><![CDATA[log4j:WARN No appenders could be found for logger (wordFinder.FindWords).
