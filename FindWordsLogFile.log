@@ -22,3 +22,38 @@
 2015-02-18 15:11:02,611 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
 2015-02-18 15:11:02,612 INFO  [FindWords] Words [] 
 2015-02-18 15:11:02,613 INFO  [FindWords] Words [] 
+2016-06-29 21:08:05,841 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:05,842 INFO  [FindWords] dic word is The 
+2016-06-29 21:08:05,842 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:05,842 INFO  [FindWords] dic word is quick 
+2016-06-29 21:08:05,842 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:05,842 INFO  [FindWords] dic word is brown 
+2016-06-29 21:08:05,842 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:05,842 INFO  [FindWords] dic word is fox 
+2016-06-29 21:08:05,842 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:05,842 INFO  [FindWords] dic word is jumps 
+2016-06-29 21:08:05,842 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
+2016-06-29 21:08:28,218 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,218 INFO  [FindWords] dic word is The 
+2016-06-29 21:08:28,218 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,218 INFO  [FindWords] dic word is quick 
+2016-06-29 21:08:28,219 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,219 INFO  [FindWords] dic word is brown 
+2016-06-29 21:08:28,219 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,219 INFO  [FindWords] dic word is fox 
+2016-06-29 21:08:28,219 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,219 INFO  [FindWords] dic word is jumps 
+2016-06-29 21:08:28,219 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
+2016-06-29 21:08:28,225 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,225 INFO  [FindWords] dic word is The 
+2016-06-29 21:08:28,225 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,225 INFO  [FindWords] dic word is quick 
+2016-06-29 21:08:28,225 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,225 INFO  [FindWords] dic word is brown 
+2016-06-29 21:08:28,225 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,225 INFO  [FindWords] dic word is fox 
+2016-06-29 21:08:28,225 INFO  [FindWords] Test is wordFinder.FindWords 
+2016-06-29 21:08:28,225 INFO  [FindWords] dic word is jumps 
+2016-06-29 21:08:28,226 INFO  [FindWords] Words [The, quick, brown, fox, jumps] 
+2016-06-29 21:08:28,227 INFO  [FindWords] Words [] 
+2016-06-29 21:08:28,228 INFO  [FindWords] Words [] 
